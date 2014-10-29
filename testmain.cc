@@ -9,7 +9,7 @@ return (a+b);
 
 int main(){
   std::cout << "Hello word" << std::endl;
-  if(somma<int>(8,3)==11){
+  if(somma<int>(8,4)==11){
    exit(1); 
   }
    

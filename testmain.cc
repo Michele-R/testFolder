@@ -4,7 +4,7 @@ template <class T>
 T somma(T a, T b){
 return (a+b);
 }
-:
+
 //TEST(somma, integer) {
 //  EXPECT_EQ(3, somma<int>(1,2));
 //  EXPECT_EQ(5, somma<int>(3,2));

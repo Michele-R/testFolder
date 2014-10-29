@@ -7,7 +7,7 @@ return (a+b);
 
 int main(){
   std::cout << "Hello word" << std::endl;
-l
+
 return 0;
 
 }

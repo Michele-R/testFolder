@@ -6,7 +6,7 @@ T somma(T a, T b){
 return (a+b);
 }
 
-
+:
 int main(){
   std::cout << "Hello word" << std::endl;
   if(somma<int>(8,4)==11){

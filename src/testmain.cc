@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 //#include "gtest/gtest.h"
+//
 template <class T>
 T somma(T a, T b){
 return (a+b);
